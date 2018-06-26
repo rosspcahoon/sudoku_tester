@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cf87b88-7d5a-49f8-ab14-9d574c529466" name="Default" comment="" />
+    <list default="true" id="6cf87b88-7d5a-49f8-ab14-9d574c529466" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuModel.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +18,8 @@
       <file leaf-file-name="SudokuModel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="86" column="71" selection-start-line="86" selection-start-column="71" selection-end-line="86" selection-end-column="71" />
+            <state relative-caret-position="270">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -83,6 +86,9 @@
       <find>getBoardMask</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuTester.java" />
         <option value="$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuView.java" />
         <option value="$PROJECT_DIR$/testing/com/example/sudoku_tester/SudokuModelTest.java" />
+        <option value="$USER_HOME$/ReactProjects/my-app/src/index.js" />
         <option value="$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuModel.java" />
       </list>
     </option>
@@ -101,6 +108,7 @@
     <option name="width" value="1871" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../http_server/src/com/example/server.java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ReactProjects/my-app/src/index.js" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -408,8 +416,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" x="0" y="0" width="413" height="884" id="Documentation" side_tool="true" weight="0.32946378" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19895288" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19937041" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32984293" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -526,10 +534,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/ReactProjects/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/sudoku_tester/SudokuModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="86" column="71" selection-start-line="86" selection-start-column="71" selection-end-line="86" selection-end-column="71" />
+        <state relative-caret-position="270">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
         </state>
       </provider>
     </entry>

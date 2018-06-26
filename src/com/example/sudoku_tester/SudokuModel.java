@@ -23,15 +23,15 @@ public class SudokuModel {
     }
 
     public SudokuModel() {
-        board = new int[]{1, 2, NUM_SUB_UNITS, 4, 5, 6, 7, 8, SQ_PER_SINGLE_ROW,
-                4, 5, 6, 7, 8, SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS,
-                7, 8, SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS, 4, 5, 6,
-                SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS, 4, 5, 6, 7, 8,
-                NUM_SUB_UNITS, 4, 5, 6, 7, 8, SQ_PER_SINGLE_ROW, 1, 2,
-                6, 7, 8, SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS, 4, 5,
-                8, SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS, 4, 5, 6, 7,
-                2, NUM_SUB_UNITS, 4, 5, 6, 7, 8, SQ_PER_SINGLE_ROW, 1,
-                5, 6, 7, 8, SQ_PER_SINGLE_ROW, 1, 2, NUM_SUB_UNITS, 4
+        board = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9,
+                4, 5, 6, 7, 8, 9, 1, 2, 3,
+                7, 8, 9, 1, 2, 3, 4, 5, 6,
+                9, 1, 2, 3, 4, 5, 6, 7, 8,
+                3, 4, 5, 6, 7, 8, 9, 1, 2,
+                6, 7, 8, 9, 1, 2, 3, 4, 5,
+                8, 9, 1, 2, 3, 4, 5, 6, 7,
+                2, 3, 4, 5, 6, 7, 8, 9, 1,
+                5, 6, 7, 8, 9, 1, 2, 3, 4
         };
         playerBoard = new int[NUM_SQUARES_ON_BOARD];
         boardMask = new boolean[NUM_SQUARES_ON_BOARD];
